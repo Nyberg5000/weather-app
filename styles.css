@@ -106,3 +106,12 @@ p {
   left: 135px;
   bottom: 38px;
 }
+#credits {
+  display: block;
+  margin: 0 auto;
+  font-size: 14px;
+  color: #000;
+}
+#source-code-link {
+  text-decoration: none;
+}
